@@ -14,7 +14,7 @@ console.log(newPerson);
 
 //  Desturcturing
 
-const numbers = [1,2,3];
-[num1, num2] = numbers;
+const numbers1 = [1,2,3];
+[num1, num2] = numbers1;
 console.log(num1, num2);
 
